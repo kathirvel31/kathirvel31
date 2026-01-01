@@ -1,4 +1,6 @@
-## Hi there 👋
+Kathirvel Chandrasekaran
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Impact&weight=100&size=29&letterSpacing=20&pause=1000&color=44F727&width=435&lines=AI+Developer+%7C++ML+Enthusiast;MERN+Stack+Developer;JAVA+Coder)](https://git.io/typing-svg)
 
 <!--
 **kathirvel31/kathirvel31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
